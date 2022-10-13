@@ -1,0 +1,48 @@
+h1 {
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+h2 {
+    color:rgb(5, 112, 14);
+    font: size 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(27, 90, 32);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.class-example {
+    font-size: 22px;
+    color: rgba(182, 8, 8, 0.555);
+    
+}
+
+#class-override-example {
+    font-size: 34px;
+    color: rgb(112, 51, 51);
+}
+
+li {
+    color: crimson;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+img {
+    font-size: 2px;
+}
